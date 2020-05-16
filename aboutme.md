@@ -1,12 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data Science, AI and new technologies excite me!
 ---
-
-My name is Abhishek Malik. Currently working as a Data Scientist at Hawk:AI.
-
-Data Science, AI and new technologies excite me!! Every now and then I come across a new tool and my mind is filled with ideas on how and where I can use it to make a difference.
 
 Here is a quick summary of what I'm up to these days:
 - Using anomaly detection in time series to detect new planets as well as unusual transaction behaviors in banking data.

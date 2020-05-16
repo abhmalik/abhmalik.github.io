@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Welcome
+title: Abhishek Malik
 
 # Short description of your site
-description: Abhishek Malik
+description: Personal website
 
 # Your name to show in the footer
 author: Abhishek Malik
@@ -12,20 +12,20 @@ author: Abhishek Malik
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resume: "https://registry.jsonresume.org/abhmalik"
+  Home: "https://abhmalik.github.io"
+  About: "aboutme"
   Project Demos:
     - Planet detectoion using ML: "https://beautifuljekyll.com"
     - Fraud detection: "https://www.markdowntutorial.com/"
     - Anomaly Detection: "https://www.markdowntutorial.com/"
+  Resume: "https://registry.jsonresume.org/abhmalik"
   Github: "https://github.com/abhmalik"
-  Author's home: "https://abhmalik.github.io"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/me.png"
+avatar: "/assets/img/me.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
@@ -69,13 +69,14 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#00B4A1"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#00B4A1"
+#F5F5F5
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -84,7 +85,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 # --- Web Statistics Section --- #
 

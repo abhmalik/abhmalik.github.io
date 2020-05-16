@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Contact me
 subtitle: Why you'd want to go on a date with me
 ---
 
@@ -16,4 +16,3 @@ Here is a quick summary of what I'm up to these days:
 ### Contact:
 
 You can reach me at: [abhishek.malik@hawk.ai](mailto:abhishek.malik@hawk.ai)
-or check out the footer of this website for your preferred method.

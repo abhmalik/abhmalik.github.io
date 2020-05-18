@@ -15,9 +15,9 @@ navbar-links:
   Home: "https://abhmalik.github.io"
   About: "aboutme"
   Project Demos:
-    - Planet detectoion using ML: "https://beautifuljekyll.com"
-    - Fraud detection: "https://www.markdowntutorial.com/"
-    - Anomaly Detection: "https://www.markdowntutorial.com/"
+    - Planet detection using ML: "https://github.com/abhmalik/Exoplanet-Vetting-Tool"
+    - Explainable Fraud detection: "https://github.com/abhmalik/Czech_bank_AML_analysis"
+    - Time-Series Anomaly Detection: "https://github.com/abhmalik/timeseries-clustering-vae"
   Resume: "https://registry.jsonresume.org/abhmalik"
   Github: "https://github.com/abhmalik"
 
